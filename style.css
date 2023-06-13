@@ -69,6 +69,8 @@ a{
 }
 .latest-works{
     background-image: url(image/latest-work-bg.png);
+    text-align: center;
+    padding-top: 20px;
 }
 .three{
     float: left;
